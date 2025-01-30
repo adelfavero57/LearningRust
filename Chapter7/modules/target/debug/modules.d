@@ -1,0 +1,1 @@
+/mnt/c/Users/Alex/Documents/RUST/LearningRust/Chapter7/modules/target/debug/modules: /mnt/c/Users/Alex/Documents/RUST/LearningRust/Chapter7/modules/src/garden/vegetables.rs /mnt/c/Users/Alex/Documents/RUST/LearningRust/Chapter7/modules/src/garden.rs /mnt/c/Users/Alex/Documents/RUST/LearningRust/Chapter7/modules/src/main.rs
